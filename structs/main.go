@@ -21,6 +21,7 @@ func (p *person) updateName(newFirstName string) {
 	(*p).firstName = newFirstName
 }
 
+// main
 func main() {
 	var alex person
 	var contact contactInfo
