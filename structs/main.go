@@ -38,7 +38,8 @@ func main() {
 	alex.firstName = "Alex"
 	alex.lastName = "Anderson"
 	alex.contactInfo = contact
-	alexPointer := &alex
-	alexPointer.updateName("alexy")
+	// alexPointer := &alex
+	// alexPointer.updateName("alexy")
+	alex.updateName("alexy")
 	alex.print()
 }
