@@ -1,3 +1,3 @@
-# Udemy golang training
+# Golang
 
 Golang training
